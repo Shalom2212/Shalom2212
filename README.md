@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Typing Animation Header -->
-<a href="https://github.com/Shalom2212">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Shalom+M+👋;Full+Stack+%26+AI+Platforms+Engineer;Building+Fintech+Ecosystems+%26+Agentic+Systems;Architecting+Custom+MCP+Servers+%26+RAG+Pipelines" alt="Typing SVG" />
-</a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=620&height=50&lines=Hi+there%2C+I+am+Shalom+M;Full+Stack+and+AI+Platforms+Engineer;Building+Fintech+Ecosystems+and+Agentic+Systems;Architecting+Custom+MCP+Servers+and+RAG+Pipelines)](https://github.com/Shalom2212)
 
 <p align="center">
-  <b>Software Engineer (Full Stack & AI Platforms)</b> based in Bengaluru, India.<br/>
+  🚀 <b>Software Engineer (Full Stack & AI Platforms)</b> based in Bengaluru, India.<br/>
   Specializing in distributed systems, fintech platforms, autonomous agentic workflows (MCP), and modern full-stack development.
 </p>
 
